@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Operane
 - 👀 I’m interested in Nothing.
 - 🌱 I’m currently learning how to code.
-- 💞️ I’m looking to collaborate on Martix.
+- 💞️ I’m looking to collaborate on Nothing .
 - 📫 How to reach me... Gmail- alanlouis77@gmail.com
 
 <!---
